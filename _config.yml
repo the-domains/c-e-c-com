@@ -1,0 +1,28 @@
+name: C.E.C. com
+favicon: null
+layout_spectrum: 0.893459590151906
+typography_spectrum: 0.012032028054818511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03719519916921854
+  lightness: 0.46092421980574727
+  saturation: 0.4382338346913457
+  rhythmicContrast: 0.45736763207241893
+purpose: []
